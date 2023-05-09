@@ -39,3 +39,4 @@ aza = Student('Aza', 18,False)
 # print(aza)
 print('#############')
 People.run(aza)
+
