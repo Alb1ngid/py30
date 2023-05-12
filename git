@@ -16,3 +16,5 @@ git push origin master/main
 
 git rm --cached -r namedir
 git rm --cached  namefile
+
+
